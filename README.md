@@ -1,14 +1,11 @@
 # Maxime Coppa 
-# I'm Maxime 
-- 👋 Hi, I’m @MaxCoppa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-MaxCoppa/MaxCoppa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Student at ENSAE Paris.
+
+Interested in Machine Learning, Deep Learning, Artificial Intelligence, Data Science.
+
+I open source some of my projects here.
+
+** Currently working on : **
+
+

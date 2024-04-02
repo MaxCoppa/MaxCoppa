@@ -15,7 +15,7 @@ __Currently working on :__
 - Pricing of a financial option and comparaison of Black-Scholes-Merton, Binomial Models
 Monte-Carlo models  in C++.
 
-- Optimization of a delivery network of more thant 500,000 delivery routes in Python using deterministic algorithms : Kruskal’s algorithm, Floyd-Warshall algorithm,
+- Optimization of a delivery network in Python using deterministic algorithms : Kruskal’s algorithm, Floyd-Warshall algorithm,
 and non deterministic algorithms : genetic algorithm and greedy algorithm.
 
 

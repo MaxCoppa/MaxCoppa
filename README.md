@@ -6,6 +6,6 @@ Interested in Machine Learning, Deep Learning, Artificial Intelligence, Data Sci
 
 I open source some of my projects here.
 
-** Currently working on : **
+__Currently working on :__
 
 

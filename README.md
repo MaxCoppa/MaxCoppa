@@ -1,6 +1,6 @@
 # Maxime Coppa 
 
-Student at ENSAE Paris.
+Currently Second year student at [ENSAE Paris](https://www.ensae.fr/en).
 
 Interested in Machine Learning, Deep Learning, Artificial Intelligence, Data Science.
 

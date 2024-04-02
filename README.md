@@ -10,7 +10,9 @@ __Currently working on :__
 
 - Estimation of the performance and previvision of the performance of loyalties program of Canal+ in Africa, 7 Million subscribers.
 
-## Some Projects
+
+
+### Some Projects
 
 - Pricing of a financial option and comparaison of Black-Scholes-Merton, Binomial Models
 Monte-Carlo models  in C++.

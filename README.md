@@ -8,7 +8,8 @@ I open source some of my projects here.
 
 __Currently working on :__
 
-- Estimation and previvision of the performance of loyalties program of Canal+ in Africa, 7 Million subscribers.
+- Estimation and previvision of the performance of loyalties program of Canal+ in Africa, 7 Million subscribers.  [Data Science | Visualization | Clustering | High Performance Python] [Under Construction](https://github.com/Statapp-CANAL/Statapp-CANAL)
+
 
 
 

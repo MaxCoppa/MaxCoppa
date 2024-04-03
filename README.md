@@ -17,11 +17,9 @@ __Currently working on :__
 - Sentiment analysis tool based on tweets data. Using various machine learning algorithms such as SVM and deep learning models like
 RNNs or CNNs.
 
-- Pricing of a financial option and comparaison of Black-Scholes-Merton, Binomial Models
-Monte-Carlo models  in C++.
+- [Pricing of a financial option](https://github.com/MaxCoppa/Option-pricing-project) and comparaison of Black-Scholes-Merton, Binomial Models Monte-Carlo models  in C++. [Report](https://github.com/MaxCoppa/Option-pricing-project/blob/main/C%2B%2B%20project%20report.pdf)
 
-- Optimization of a delivery network in Python using deterministic algorithms : Kruskal’s algorithm, Floyd-Warshall algorithm,
-and non deterministic algorithms : genetic algorithm and greedy algorithm.
+- [Optimization of a delivery network](https://github.com/MaxCoppa/Transportation-network-project) in Python using deterministic algorithms : Kruskal’s algorithm, Floyd-Warshall algorithm, and non deterministic algorithms : genetic algorithm and greedy algorithm. [Report]()
 
 ### Theoretical Projects 
 

@@ -14,6 +14,9 @@ __Currently working on :__
 
 ### Some Projects
 
+- Sentiment analysis tool based on tweets data. Using various machine learning algorithms such as SVM and deep learning models like
+RNNs or CNNs.
+
 - Pricing of a financial option and comparaison of Black-Scholes-Merton, Binomial Models
 Monte-Carlo models  in C++.
 

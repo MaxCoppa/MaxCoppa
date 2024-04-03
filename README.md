@@ -23,4 +23,5 @@ Monte-Carlo models  in C++.
 - Optimization of a delivery network in Python using deterministic algorithms : Kruskal’s algorithm, Floyd-Warshall algorithm,
 and non deterministic algorithms : genetic algorithm and greedy algorithm.
 
+### Theoretical Projects 
 

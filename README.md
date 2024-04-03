@@ -24,4 +24,4 @@ RNNs and  CNNs. [Project]()
 
 ### Theoretical Projects 
 
-- GeneRank Project, provide a model to compare Genes in the organism using PageRank algorithm and proved some convergence theorems with basic algebric properties. [Report]()
+- GeneRank Project, provide a model to compare Genes in the organism using PageRank algorithm and proved some convergence theorems with basic algebric properties. [Report](https://github.com/MaxCoppa/GeneRank-project/blob/main/GeneRank.pdf)

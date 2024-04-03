@@ -15,13 +15,13 @@ __Currently working on :__
 
 ### Some Projects
 
-- Pricing of a financial option and comparaison of Black-Scholes-Merton, Binomial Models Monte-Carlo models  in C++.[Project](https://github.com/MaxCoppa/Option-pricing-project) [Report](https://github.com/MaxCoppa/Option-pricing-project/blob/main/C%2B%2B%20project%20report.pdf)
+- Pricing of a financial option and comparaison of Black-Scholes-Merton, Binomial Models Monte-Carlo models  in C++.[Project](https://github.com/MaxCoppa/Option-pricing-project); [Report](https://github.com/MaxCoppa/Option-pricing-project/blob/main/C%2B%2B%20project%20report.pdf)
 
-- Optimization of a delivery network in Python using deterministic algorithms : Kruskal’s algorithm, Floyd-Warshall algorithm, and non deterministic algorithms : genetic algorithm and greedy algorithm. [Project](https://github.com/MaxCoppa/Transportation-network-project) [Report]()
+- Optimization of a delivery network in Python using deterministic algorithms : Kruskal’s algorithm, Floyd-Warshall algorithm, and non deterministic algorithms : genetic algorithm and greedy algorithm. [Project](https://github.com/MaxCoppa/Transportation-network-project); [Report]()
 
    Sentiment analysis tool based on tweets data using various Machine Learning algorithms :  SVM algorithms; and deep learning models : 
 RNNs and  CNNs. [Project]()
 
 ### Theoretical Projects 
 
-- GeneRank Project, provide a model to compare Genes in the organism using PageRank algorithm and proved some convergence theorems with basic algebric properties
+- GeneRank Project, provide a model to compare Genes in the organism using PageRank algorithm and proved some convergence theorems with basic algebric properties. [Report]()

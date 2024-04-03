@@ -8,7 +8,7 @@ I open source some of my projects here.
 
 __Currently working on :__
 
-- Estimation of the performance and previvision of the performance of loyalties program of Canal+ in Africa, 7 Million subscribers.
+- Estimation and previvision of the performance of loyalties program of Canal+ in Africa, 7 Million subscribers.
 
 
 

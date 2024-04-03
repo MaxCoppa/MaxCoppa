@@ -14,7 +14,7 @@ __Currently working on :__
 
 ### Some Projects
 
-- Sentiment analysis tool based on tweets data. Using various machine learning algorithms such as SVM and deep learning models like
+- [Sentiment analysis tool based on tweets data](). Using various machine learning algorithms such as SVM and deep learning models like
 RNNs or CNNs.
 
 - [Pricing of a financial option](https://github.com/MaxCoppa/Option-pricing-project) and comparaison of Black-Scholes-Merton, Binomial Models Monte-Carlo models  in C++. [Report](https://github.com/MaxCoppa/Option-pricing-project/blob/main/C%2B%2B%20project%20report.pdf)
@@ -23,3 +23,4 @@ RNNs or CNNs.
 
 ### Theoretical Projects 
 
+- GeneRank Project, provide a model to compare Genes in the organism using PageRank algorithm and proved some convergence theorems with basic algebric properties

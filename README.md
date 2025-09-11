@@ -1,7 +1,11 @@
 # Maxime Coppa  
 
-Final-year Data Science & Machine Learning student at [ENSAE Paris](https://www.ensae.fr/en), part of Institut Polytechnique de Paris, currently following the **DSSA 3A track** (Data Science and Statistical Analysis) and, in parallel, at [Ecole Polytechnique](https://www.polytechnique.edu) the **M2DS Research Master in Applied Mathematics and Computer Science** ([Applied Data Science and AI program](https://www.ip-paris.fr/en/master-data-science)).  
+Final-year Data Science & Machine Learning student at [ENSAE Paris](https://www.ensae.fr/en), part of Institut Polytechnique de Paris, currently following the **DSSA 3A track** (Data Science and Statistical Analysis) and, in parallel, at [Ecole Polytechnique](https://www.polytechnique.edu) the **M2DS Research Master in Applied Mathematics and Computer Science** ([Applied Data Science and AI program](https://www.ip-paris.fr/en/master-data-science)).
+
+
 Research experience in Deep Learning, Financial Modeling, and Algorithmic Forecasting.  
+
+
 Driven by curiosity and a passion for solving complex problems at the intersection of mathematics, artificial intelligence, and finance.
 
 
@@ -34,8 +38,8 @@ Driven by curiosity and a passion for solving complex problems at the intersecti
 ## Selected Projects  
 
 
-- **Vehicle Verification (PyTorch, Transformers, OpenCV)**  
-  Deep learning models to verify if two images depict the same vehicle.  
+- **Object Verification (PyTorch, Transformers, OpenCV)**  
+  Deep learning models to verify if two images depict the same object from unseen classes.  
 
 - **Pricing Financial Options in C++**  
   Implemented Black–Scholes, Binomial Trees, and Monte Carlo simulations.  

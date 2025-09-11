@@ -30,7 +30,7 @@ Driven by curiosity and a passion for solving complex problems at the intersecti
   Built a forecasting module (R² = 0.80) and automated ETL pipelines.  
 
 - **Data Scientist – Canal+ International (2023–24)**
-  Estimation and previvision of the performance of loyalties program of Canal+ in Africa (500K+ subscribers).  
+  Estimation and prevision of the performance of loyalties program of Canal+ in Africa (500K+ subscribers).  
   [Project on GitHub](https://github.com/Statapp-CANAL/Statapp-CANAL)  
 
 ---

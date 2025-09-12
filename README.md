@@ -1,19 +1,16 @@
-# Maxime Coppa  
-
+# Maxime Coppa 
+---
 Final-year **Data Science & Machine Learning student** at [ENSAE Paris](https://www.ensae.fr/en), part of Institut Polytechnique de Paris.  
 Currently enrolled in the **DSSA 3A track** (Data Science and Statistical Analysis) and the **M2DS Research Master in Applied Mathematics and Computer Science** at [École Polytechnique](https://www.polytechnique.edu) ([M2DS program](https://www.ip-paris.fr/education/masters/mention-mathematiques-appliquees-statistique/master-year-2-data-science)).  
 
 Research experience in Deep Learning, Financial Modeling, and Algorithmic Forecasting.  
 Driven by curiosity and a passion for solving complex problems at the intersection of mathematics, AI, and finance.  
+Seeking opportunities in quantitative research, applied machine learning, and deep learning research.
 
----
+**Contact:**
 
-## About Me  
-
-- Strong foundation in probability, statistics, and machine learning.  
-- Experienced in both academic research and industry applications: deep learning (vision), financial modeling, large-scale data science pipelines.  
-- Seeking opportunities in quantitative research, applied machine learning, and data-driven innovation.  
-
+- Email: maxime[dot]coppa[at]ensae[dot]fr  
+- LinkedIn: [linkedin.com/in/maxime-coppa](https://www.linkedin.com/in/maxime-coppa/)  
 ---
 
 ## Research & Professional Experience  
@@ -69,9 +66,4 @@ I have open-sourced a selection of my professional, personal, and academic proje
 **Other Tools:** Git, VBA, SAS  
 
 ---
-
-## Contact  
-
-- Email: maxime.coppa@ensae.fr  
-- LinkedIn: [linkedin.com/in/maxime-coppa](https://www.linkedin.com/in/maxime-coppa/)  
-- GitHub: [github.com/MaxCoppa](https://github.com/MaxCoppa)  
+ 

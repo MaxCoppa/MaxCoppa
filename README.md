@@ -15,16 +15,16 @@ Seeking opportunities in quantitative research, applied machine learning, and de
 
 ## Research & Professional Experience  
 
-- **Deep Learning Research Intern – IDEMIA (2025)**  
+- **Deep Learning Research Intern – IDEMIA (Feb 2025 - Aug 2025)**  
   - Vehicle verification with CNNs & Transformers (470K+ image pairs).  
   - Achieved 95.7% accuracy, AUC = 0.99.  
   - Work led to two patent disclosures.  
 
-- **Quantitative Analyst R&D – Quantilia (2024)**  
+- **Quantitative Analyst R&D – Quantilia (Jun 2024 - Dec 2024)**  
   - Built cash flow forecasting models for private investments using stochastic processes.  
   - Developed a forecasting module (R² = 0.80) and automated ETL pipelines.  
 
-- **Data Scientist – Canal+ International (2023)**  
+- **Data Scientist – Canal+ International (Oct 2023 - May 2024)**  
   - Modeled performance of the loyalty program in Africa (500K+ subscribers).  
 
 ---

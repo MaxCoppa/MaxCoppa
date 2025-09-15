@@ -44,8 +44,9 @@ I have open-sourced a selection of my professional, personal, and academic proje
   Implemented Black–Scholes, Binomial Trees, Monte Carlo simulations.  
   [Project](https://github.com/MaxCoppa/Option-pricing-project) | [Report](https://github.com/MaxCoppa/Option-pricing-project/blob/main/C%2B%2B%20project%20report.pdf)
 
-- **Linear Time Series Modeling**
-  Forecasted industrial production indices using ARIMA models and visualized trends in R.[Project](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA) | [Report](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA/blob/main/Projet_ST_R.pdf)
+- **Linear Time Series Modeling** \
+  Forecasted industrial production indices using ARIMA models and visualized trends in R. \
+  [Project](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA) | [Report](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA/blob/main/Projet_ST_R.pdf)
 
 - **Optimization of a Delivery Network (Python)**  
   Designed deterministic algorithms (Kruskal, Floyd–Warshall) and heuristics (genetic algorithms, greedy methods).  

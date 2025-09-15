@@ -31,7 +31,7 @@ Seeking opportunities in quantitative research, applied machine learning, and de
 
 ## Some Projects  
 
-I have open-sourced a selection of my professional, personal, and academic projects here.  
+I have open-sourced a selection of my personal and academic projects here.  
 
 - **Object Verification (PyTorch, Transformers, OpenCV)**  
   Deep learning models verifying whether two images represent the same object from unseen classes.  

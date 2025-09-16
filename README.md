@@ -58,9 +58,20 @@ I have open-sourced a selection of my personal and academic projects here.
   [Report](https://github.com/MaxCoppa/GeneRank-project/blob/main/GeneRank.pdf)  
 
 - **Kaggle Competitions**  
-  - Commodity price forecasting (Mitsui & Co.)  
-  - Real-time market data prediction (Jane Street)  
   - House prices regression challenge  
+    [Competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)  
+
+---
+
+## Currently Working On  
+
+- **Commodity Price Forecasting (Kaggle – Mitsui & Co.)**  
+  Forecasting commodity prices with time-series modeling and ML.  
+  [Competition](https://www.kaggle.com/competitions/mitsui-co-commodity-price-forecasting)  
+
+- **Real-time Market Data Prediction (Kaggle – Jane Street)**  
+  Predicting market responses to trading signals using deep learning.  
+  [Competition](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting)  
 
 ---
 

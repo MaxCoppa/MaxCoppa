@@ -21,7 +21,7 @@ Seeking opportunities in quantitative research, applied machine learning, and de
   - Work led to two patent disclosures.  
 
 - **Quantitative Analyst R&D – Quantilia (Jun 2024 - Dec 2024)**  
-  - Built cash flow forecasting models for private investments using stochastic processes.  
+  - Built cash flow forecasting models for private investments using deterministic and stochastic processes.  
   - Developed a forecasting module (R² = 0.80) and automated ETL pipelines.  
 
 - **Data Scientist – Canal+ International (Oct 2023 - May 2024)**  

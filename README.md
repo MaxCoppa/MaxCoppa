@@ -41,6 +41,10 @@ I have open-sourced a selection of my personal and academic projects here.
   Estimation and prediction of loyalty program performance in Africa (500K+ subscribers).  
   [Project](https://github.com/Statapp-CANAL/Statapp-CANAL)  
 
+- **Stock Prediction Using Machine Learning**  
+  Modular pipeline for stock price forecasting with feature engineering, tree-based models, and ensemble methods.  
+  [Project](https://github.com/MaxCoppa/stock-prediction-using-ml)  
+
 - **Pricing Financial Options (C++)**  
   Implemented Black–Scholes, Binomial Trees, Monte Carlo simulations.  
   [Project](https://github.com/MaxCoppa/Option-pricing-project) | [Report](https://github.com/MaxCoppa/Option-pricing-project/blob/main/C%2B%2B%20project%20report.pdf)

@@ -73,9 +73,10 @@ I have open-sourced a selection of my personal and academic projects here.
   Forecasting commodity prices with time-series modeling and ML.  
   [Competition](https://www.kaggle.com/competitions/mitsui-co-commodity-price-forecasting)  
 
-- **Real-time Market Data Prediction (Kaggle – Jane Street)**  
-  Predicting market responses to trading signals using deep learning.  
-  [Competition](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting)  
+- **Myeloid Leukemia Survival Prediction (ENS ChallengeData – QRT)**  
+  Built survival models on clinical and genomic data, evaluated with IPCW-C-index.  
+  [Competition](https://challengedata.ens.fr/challenges/162)
+
 
 ---
 

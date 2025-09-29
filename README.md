@@ -69,11 +69,11 @@ I have open-sourced a selection of my personal and academic projects here.
 
 ## Currently Working On  
 
-- **Commodity Price Forecasting (Kaggle – Mitsui & Co.)**  
+- **Commodity Price Forecasting (Kaggle)**  
   Forecasting commodity prices with time-series modeling and ML.  
-  [Competition](https://www.kaggle.com/competitions/mitsui-co-commodity-price-forecasting)  
+  [Competition](https://www.kaggle.com/competitions/mitsui-commodity-prediction-challenge)  
 
-- **Myeloid Leukemia Survival Prediction (ENS ChallengeData – QRT)**  
+- **Myeloid Leukemia Survival Prediction (ENS ChallengeData)**  
   Built survival models on clinical and genomic data, evaluated with IPCW-C-index.  
   [Competition](https://challengedata.ens.fr/challenges/162)
 

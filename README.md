@@ -35,7 +35,11 @@ I have open-sourced a selection of my personal and academic projects here.
 
 - **Object Verification (PyTorch, Transformers, OpenCV)**  
   Deep learning models verifying whether two images represent the same object from unseen classes.  
-  [Project](https://github.com/MaxCoppa/Object-Verification)  
+  [Project](https://github.com/MaxCoppa/Object-Verification)
+
+- **QRT Grand Data Challenge**
+  Can you predict whether a given asset allocation is worth following—or shorting?
+  [Project](https://github.com/MaxCoppa/qrt-asset-allocation-performance-forecasting)
 
 - **Canal+ Loyalty Program Analysis**  
   Estimation and prediction of loyalty program performance in Africa (500K+ subscribers).  

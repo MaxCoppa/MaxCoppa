@@ -82,7 +82,7 @@ I have open-sourced a selection of my personal and academic projects here.
   [Course](https://github.com/schampon/skfin)
 
 - **ALTEGRAD Project** \
-  Project on advanced AI techniques for text and graph data, within the MVA and M2DS program. \
+  Project on advanced AI techniques for text and graph data, within the MVA and M2DS program. 
   
 ---
 

@@ -73,15 +73,17 @@ I have open-sourced a selection of my personal and academic projects here.
 
 ## Currently Working On  
 
-- **Commodity Price Forecasting (Kaggle)**  
-  Forecasting commodity prices with time-series modeling and ML.  
-  [Competition](https://www.kaggle.com/competitions/mitsui-commodity-prediction-challenge)  
-
 - **Myeloid Leukemia Survival Prediction (ENS ChallengeData)**  
   Built survival models on clinical and genomic data, evaluated with IPCW-C-index.  
   [Competition](https://challengedata.ens.fr/challenges/162)
 
+- **ML for Porfolio Management and Trading**
+  Stock prediction using US Federal Reserve (FRED) data, supervised by Pr. Sylvain Champonnois
+  [Course](https://github.com/schampon/skfin)
 
+- **ALTEGRAD Project**
+  Project on advanced AI techniques for text and graph data, within the MVA and M2DS program.
+  
 ---
 
 ## Skills  

@@ -75,7 +75,7 @@ I have open-sourced a selection of my personal and academic projects here.
 
 - **Myeloid Leukemia Survival Prediction (ENS ChallengeData)**  \
   Built survival models on clinical and genomic data, evaluated with IPCW-C-index.  
-  [Competition](https://challengedata.ens.fr/challenges/162)
+  [Project](https://github.com/MaxCoppa/Myeloid-Leukemia-Survival-Prediction) | [Competition](https://challengedata.ens.fr/challenges/162)
 
 - **ML for Porfolio Management and Trading** \
   Stock prediction using US Federal Reserve (FRED) data, supervised by Pr. Sylvain Champonnois \

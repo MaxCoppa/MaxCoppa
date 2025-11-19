@@ -41,6 +41,10 @@ I have open-sourced a selection of my personal and academic projects here.
   Can you predict whether a given asset allocation is worth following—or shorting? \
   [Project](https://github.com/MaxCoppa/qrt-asset-allocation-performance-forecasting)
 
+-  **ML for Porfolio Management and Trading** \
+  Stock prediction using US Federal Reserve (FRED) data, supervised by Pr. Sylvain Champonnois \
+  [Project](https://github.com/MaxCoppa/Project-ML-for-Portfolio-Management-and-Trading) | [Course](https://github.com/schampon/skfin)
+
 - **Canal+ Loyalty Program Analysis**  
   Estimation and prediction of loyalty program performance in Africa (500K+ subscribers).  
   [Project](https://github.com/Statapp-CANAL/Statapp-CANAL)  
@@ -76,10 +80,6 @@ I have open-sourced a selection of my personal and academic projects here.
 - **Myeloid Leukemia Survival Prediction (ENS ChallengeData)**  \
   Built survival models on clinical and genomic data, evaluated with IPCW-C-index.  
   [Project](https://github.com/MaxCoppa/Myeloid-Leukemia-Survival-Prediction) | [Competition](https://challengedata.ens.fr/challenges/162)
-
-- **ML for Porfolio Management and Trading** \
-  Stock prediction using US Federal Reserve (FRED) data, supervised by Pr. Sylvain Champonnois \
-  [Course](https://github.com/schampon/skfin)
 
 - **ALTEGRAD Project** \
   Project on advanced AI techniques for text and graph data, within the MVA and M2DS program. 

@@ -9,7 +9,9 @@ Seeking opportunities in quantitative research, applied machine learning, and de
 
 **Contact:**
 
-- Email: `maxime[dot]coppa[at]ensae[dot]fr`
+- Email:
+  - `maxime[dot]coppa[at]ensae[dot]fr`
+  - `maxime[dot]coppa[at]polytechnique[dot]edu`
 - LinkedIn: [linkedin.com/in/maxime-coppa](https://www.linkedin.com/in/maxime-coppa/)  
 ---
 

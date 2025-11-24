@@ -47,13 +47,18 @@ I have open-sourced a selection of my personal and academic projects here.
   Stock prediction using US Federal Reserve (FRED) data, supervised by Pr. Sylvain Champonnois \
   [Project](https://github.com/MaxCoppa/Project-ML-for-Portfolio-Management-and-Trading) | [Course](https://github.com/schampon/skfin)
 
+- **Deep Learning (2024)**  
+  MLPs, CNNs, Deep Dream, RNNs, and Transformers architecture Implementations.  
+  [Project](https://github.com/MaxCoppa/Deep-Learning)
+
+- **ALTEGRAD – Advanced AI on Text and Graph (2024–2025)**  
+  NLP, LLMs, SFT, RLHF, Distillation, RAG, and Graph Neural Networks   
+  [Project](https://github.com/MaxCoppa/ALTEGRAD-labs-and-project)
+
 - **Canal+ Loyalty Program Analysis**  
   Estimation and prediction of loyalty program performance in Africa (500K+ subscribers).  
-  [Project](https://github.com/Statapp-CANAL/Statapp-CANAL)  
+  [Project](https://github.com/Statapp-CANAL/Statapp-CANAL)
 
-- **Stock Prediction Using Machine Learning**  
-  Modular pipeline for stock price forecasting with feature engineering, tree-based models, and ensemble methods.  
-  [Project](https://github.com/MaxCoppa/stock-prediction-using-ml)  
 
 - **Pricing Financial Options (C++)**  
   Implemented Black–Scholes, Binomial Trees, Monte Carlo simulations.  

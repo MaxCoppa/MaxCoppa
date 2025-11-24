@@ -20,19 +20,19 @@ Seeking opportunities in quantitative research, applied machine learning, and de
 A selection of some projects.
 
 - **Object Verification (PyTorch, Transformers, OpenCV)**  
-  Deep learning models verifying whether two images represent the same object from different views and unseen classes. \
+  Deep learning models verifying whether two images represent the same object from different views and unseen classes. \\
   [Project](https://github.com/MaxCoppa/Object-Verification)
 
 - **QRT Grand Data Challenge 2025**  
-  Can you predict whether a given asset allocation is worth following or shorting? \
+  Can you predict whether a given asset allocation is worth following or shorting? \\
   [Project](https://github.com/MaxCoppa/qrt-asset-allocation-performance-forecasting)
 
 - **Myeloid Leukemia Survival Prediction (ENS ChallengeData)**  
-  Built survival models on clinical and genomic data, evaluated with IPCW-C-index.
+  Built survival models on clinical and genomic data, evaluated with IPCW-C-index. \\
   [Project](https://github.com/MaxCoppa/Myeloid-Leukemia-Survival-Prediction) | [Competition](https://challengedata.ens.fr/challenges/162)
 
 - **ML for Portfolio Management and Trading**  
-  Stock prediction using US Federal Reserve (FRED) data, supervised by Pr. Sylvain Champonnois (CFM).  
+  Stock prediction using US Federal Reserve (FRED) data, supervised by Pr. Sylvain Champonnois (CFM). \\
   [Project](https://github.com/MaxCoppa/Project-ML-for-Portfolio-Management-and-Trading) | [Course](https://github.com/schampon/skfin)
 
 ---

@@ -35,37 +35,37 @@ Seeking opportunities in quantitative research, applied machine learning, and de
 A selection of the most representative and impactful projects.
 
 - **Object Verification (PyTorch, Transformers, OpenCV)**  
-  Deep learning models verifying whether two images represent the same object from different views and unseen classes.  
+  Deep learning models verifying whether two images represent the same object from different views and unseen classes.  \
   [Project](https://github.com/MaxCoppa/Object-Verification)
 
 - **QRT Grand Data Challenge 2025**  
-  Can you predict whether a given asset allocation is worth following or shorting?  
+  Can you predict whether a given asset allocation is worth following or shorting?  \
   [Project](https://github.com/MaxCoppa/qrt-asset-allocation-performance-forecasting)
 
 - **Myeloid Leukemia Survival Prediction (ENS ChallengeData)**  
-  Built survival models on clinical and genomic data, evaluated with IPCW-C-index.  
+  Built survival models on clinical and genomic data, evaluated with IPCW-C-index.\ 
   [Project](https://github.com/MaxCoppa/Myeloid-Leukemia-Survival-Prediction) | [Competition](https://challengedata.ens.fr/challenges/162)
 
 - **ML for Portfolio Management and Trading**  
-  Stock prediction using US Federal Reserve (FRED) data, supervised by Pr. Sylvain Champonnois.  
+  Stock prediction using US Federal Reserve (FRED) data, supervised by Pr. Sylvain Champonnois (CFM).\  
   [Project](https://github.com/MaxCoppa/Project-ML-for-Portfolio-Management-and-Trading) | [Course](https://github.com/schampon/skfin)
 
 ---
 
 ## Currently Working On  
 
-- **Myeloid Leukemia Survival Prediction (ENS ChallengeData)**  
-  Built survival models on clinical and genomic data, evaluated with IPCW-C-index.  
+- **Myeloid Leukemia Survival Prediction (ENS ChallengeData)**  \
+  Built survival models on clinical and genomic data, evaluated with IPCW-C-index.  \
   [Project](https://github.com/MaxCoppa/Myeloid-Leukemia-Survival-Prediction) | [Competition](https://challengedata.ens.fr/challenges/162)
 
-- **ALTEGRAD Project**  
+- **ALTEGRAD Project**  \
   Project on advanced AI techniques for text and graph data, within the MVA and M2DS program supervised by Prof. Michalis Vazirgiannis.
 
-- **Advanced Machine Learning (ENSAE Paris)**
-  Transformer architectures for stock return prediction on the Jane Street dataset,  
+- **Advanced Machine Learning (ENSAE Paris)**\
+  Transformer architectures for stock return prediction on the Jane Street dataset,  \
   benchmarked against gradient boosting models supervised by Pr. Austin Stromme (ENSAE/CREST). 
 
-- **Optimization for Data Science**  
+- **Optimization for Data Science**  \
   Optimization strategies for the "smoothed" quantile regression with (non-)smooth penalties, supervised by Pr. Samuel Vaiter (CNRS) and Pr. Alexandre Gramfort (Meta).
   
 ---
@@ -78,11 +78,11 @@ Some personal and academic projects I open-sourced on GitHub.
 
 ### Deep Learning & NLP
 
-- Object Verification (PyTorch, Transformers, OpenCV): Deep learning models verifying whether two images represent the same object from different views and unseen classes.  
+- Object Verification (PyTorch, Transformers, OpenCV): Deep learning models verifying whether two images represent the same object from different views and unseen classes.\  
   [Project](https://github.com/MaxCoppa/Object-Verification)
-- Deep Learning : MLPs, CNNs, Deep Dream, RNNs, and Transformers architecture implementations based on Deep Learning I Telecom Paris course.  
+- Deep Learning : MLPs, CNNs, Deep Dream, RNNs, and Transformers architecture implementations based on Deep Learning I Telecom Paris course.  \
   [Project](https://github.com/MaxCoppa/Deep-Learning)
-- ALTEGRAD – Advanced AI on Text and Graph:NLP, LLMs, SFT, RLHF, Distillation, RAG, and Graph Neural Networks based on ALTEGRAD course from MVA and M2DS master.
+- ALTEGRAD – Advanced AI on Text and Graph:NLP, LLMs, SFT, RLHF, Distillation, RAG, and Graph Neural Networks based on ALTEGRAD course from MVA and M2DS master.\
   [Project](https://github.com/MaxCoppa/ALTEGRAD-labs-and-project)
 
 ---
@@ -102,13 +102,13 @@ Some personal and academic projects I open-sourced on GitHub.
 
 ### Data Analysis & Statistical Modeling
 
-- Canal+ Loyalty Program Analysis: Estimation and prediction of loyalty program performance in Africa (500K+ subscribers)./
+- Canal+ Loyalty Program Analysis: Estimation and prediction of loyalty program performance in Africa (500K+ subscribers).\
   [Repository](https://github.com/Statapp-CANAL/Statapp-CANAL)
-- Linear Time Series Modeling: ARIMA forecasting of industrial production indices in R./
+- Linear Time Series Modeling: ARIMA forecasting of industrial production indices in R.\
   [Competition](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA)  | [Report](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA/blob/main/Projet_ST_R.pdf)
-- GeneRank (Mathematical Modeling) : Adaptation of the PageRank algorithm for gene comparison; convergence proofs.  
+- GeneRank (Mathematical Modeling) : Adaptation of the PageRank algorithm for gene comparison; convergence proofs.  \
   [Report](https://github.com/MaxCoppa/GeneRank-project/blob/main/GeneRank.pdf)
-- Optimization of a Delivery Network :Deterministic algorithms (Kruskal, Floyd–Warshall) and heuristics (genetic algorithms, greedy).  
+- Optimization of a Delivery Network :Deterministic algorithms (Kruskal, Floyd–Warshall) and heuristics (genetic algorithms, greedy).  \
   [Competition](https://github.com/MaxCoppa/Transportation-network-project)
 
 ---

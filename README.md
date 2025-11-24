@@ -28,11 +28,11 @@ A selection of some projects.
   [Project](https://github.com/MaxCoppa/qrt-asset-allocation-performance-forecasting)
 
 - **Myeloid Leukemia Survival Prediction (ENS ChallengeData)**  
-  Built survival models on clinical and genomic data, evaluated with IPCW-C-index. \ 
+  Built survival models on clinical and genomic data, evaluated with IPCW-C-index.
   [Project](https://github.com/MaxCoppa/Myeloid-Leukemia-Survival-Prediction) | [Competition](https://challengedata.ens.fr/challenges/162)
 
 - **ML for Portfolio Management and Trading**  
-  Stock prediction using US Federal Reserve (FRED) data, supervised by Pr. Sylvain Champonnois (CFM). \  
+  Stock prediction using US Federal Reserve (FRED) data, supervised by Pr. Sylvain Champonnois (CFM).  
   [Project](https://github.com/MaxCoppa/Project-ML-for-Portfolio-Management-and-Trading) | [Course](https://github.com/schampon/skfin)
 
 ---

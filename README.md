@@ -30,7 +30,7 @@ Seeking opportunities in quantitative research, applied machine learning, and de
   - Modeled performance of the loyalty program in Africa (500K+ subscribers).  
 
 ---
-# Featured Projects  
+## Featured Projects  
 
 A selection of the most representative and impactful projects.
 

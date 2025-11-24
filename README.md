@@ -43,11 +43,11 @@ A selection of the most representative and impactful projects.
   [Project](https://github.com/MaxCoppa/qrt-asset-allocation-performance-forecasting)
 
 - **Myeloid Leukemia Survival Prediction (ENS ChallengeData)**  
-  Built survival models on clinical and genomic data, evaluated with IPCW-C-index.\ 
+  Built survival models on clinical and genomic data, evaluated with IPCW-C-index. \ 
   [Project](https://github.com/MaxCoppa/Myeloid-Leukemia-Survival-Prediction) | [Competition](https://challengedata.ens.fr/challenges/162)
 
 - **ML for Portfolio Management and Trading**  
-  Stock prediction using US Federal Reserve (FRED) data, supervised by Pr. Sylvain Champonnois (CFM).\  
+  Stock prediction using US Federal Reserve (FRED) data, supervised by Pr. Sylvain Champonnois (CFM). \  
   [Project](https://github.com/MaxCoppa/Project-ML-for-Portfolio-Management-and-Trading) | [Course](https://github.com/schampon/skfin)
 
 ---
@@ -61,7 +61,7 @@ A selection of the most representative and impactful projects.
 - **ALTEGRAD Project**  \
   Project on advanced AI techniques for text and graph data, within the MVA and M2DS program supervised by Prof. Michalis Vazirgiannis.
 
-- **Advanced Machine Learning (ENSAE Paris)**\
+- **Advanced Machine Learning (ENSAE Paris)** \
   Transformer architectures for stock return prediction on the Jane Street dataset,  \
   benchmarked against gradient boosting models supervised by Pr. Austin Stromme (ENSAE/CREST). 
 

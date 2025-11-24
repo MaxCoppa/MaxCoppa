@@ -36,7 +36,7 @@ Seeking opportunities in quantitative research, applied machine learning, and de
 I have open-sourced a selection of my personal and academic projects here.  
 
 - **Object Verification (PyTorch, Transformers, OpenCV)**  
-  Deep learning models verifying whether two images represent the same object from unseen classes.  
+  Deep learning models verifying whether two images represent the same object from different views and unseen classes.  
   [Project](https://github.com/MaxCoppa/Object-Verification)
 
 - **QRT Grand Data Challenge 2025** \

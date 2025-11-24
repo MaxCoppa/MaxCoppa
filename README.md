@@ -38,105 +38,94 @@ A selection of the most representative and impactful projects.
   Deep learning models verifying whether two images represent the same object from different views and unseen classes.  
   [Project](https://github.com/MaxCoppa/Object-Verification)
 
-- **QRT Grand Data Challenge 2025** \
-  Can you predict whether a given asset allocation is worth following-or shorting? \
+- **QRT Grand Data Challenge 2025**  
+  Can you predict whether a given asset allocation is worth following or shorting?  
   [Project](https://github.com/MaxCoppa/qrt-asset-allocation-performance-forecasting)
 
-- **Myeloid Leukemia Survival Prediction (ENS ChallengeData)**  \
+- **Myeloid Leukemia Survival Prediction (ENS ChallengeData)**  
   Built survival models on clinical and genomic data, evaluated with IPCW-C-index.  
-  [Project](https://github.com/MaxCoppa/Myeloid-Leukemia-Survival-Prediction) | [Competition](https://challengedata.ens.fr/challenges/162)
+  [Project](https://github.com/MaxCoppa/Myeloid-Leukemia-Survival-Prediction) | [Competition](https://challengedata.ens.fr/challenges/162)
 
--  **ML for Porfolio Management and Trading** \
-  Stock prediction using US Federal Reserve (FRED) data, supervised by Pr. Sylvain Champonnois \
-  [Project](https://github.com/MaxCoppa/Project-ML-for-Portfolio-Management-and-Trading) | [Course](https://github.com/schampon/skfin)
+- **ML for Portfolio Management and Trading**  
+  Stock prediction using US Federal Reserve (FRED) data, supervised by Pr. Sylvain Champonnois.  
+  [Project](https://github.com/MaxCoppa/Project-ML-for-Portfolio-Management-and-Trading) | [Course](https://github.com/schampon/skfin)
 
 ---
 
 ## Currently Working On  
 
-- **Myeloid Leukemia Survival Prediction (ENS ChallengeData)**  \
+- **Myeloid Leukemia Survival Prediction (ENS ChallengeData)**  
   Built survival models on clinical and genomic data, evaluated with IPCW-C-index.  
-  [Project](https://github.com/MaxCoppa/Myeloid-Leukemia-Survival-Prediction) | [Competition](https://challengedata.ens.fr/challenges/162)
+  [Project](https://github.com/MaxCoppa/Myeloid-Leukemia-Survival-Prediction) | [Competition](https://challengedata.ens.fr/challenges/162)
 
-- **ALTEGRAD Project** \
-  Project on advanced AI techniques for text and graph data, within the MVA and M2DS program.
+- **ALTEGRAD Project**  
+  Project on advanced AI techniques for text and graph data, within the MVA and M2DS program supervised by Prof. Michalis Vazirgiannis.
 
 - **Advanced Machine Learning (ENSAE Paris) (2025)**  
-Transformer architectures for stock return prediction on the Jane Street [dataset](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting/data), benchmarked against gradient boosting models supervised by Austin Stromme. 
+  Transformer architectures for stock return prediction on the Jane Street dataset,  
+  benchmarked against gradient boosting models supervised by Pr. Austin Stromme (ENSAE/CREST). 
 
-- **Optimization for Data Science (M2DS) (2025)**
-Optimization strategies for the "smoothed" quantile regression with (non-)smooth penalties supervised by Samuel Vaiter and Alexandre Gramfort.
+- **Optimization for Data Science (M2DS, 2025)**  
+  Optimization strategies for the "smoothed" quantile regression with (non-)smooth penalties, supervised by Pr. Samuel Vaiter (CNRS) and Pr. Alexandre Gramfort (Meta).
   
 ---
 
-# All Projects
+## Open-Sourced All Projects
 
 A complete list of personal and academic projects I open-sourced on GitHub.
 
 ---
 
-## Deep Learning & NLP
+### Deep Learning & NLP
 
-- **Object Verification (PyTorch, Transformers, OpenCV)**  
-  Deep learning models verifying whether two images represent the same object from different views and unseen classes.  
+- **Object Verification (PyTorch, Transformers, OpenCV)**  : Deep learning models verifying whether two images represent the same object from different views and unseen classes.  
   [Project](https://github.com/MaxCoppa/Object-Verification)
 
-- **Deep Learning (2024)**  
-  MLPs, CNNs, Deep Dream, RNNs, and Transformers architecture Implementations.  
+- **Deep Learning (2024)** : MLPs, CNNs, Deep Dream, RNNs, and Transformers architecture implementations.  
   [Project](https://github.com/MaxCoppa/Deep-Learning)
 
-- **ALTEGRAD – Advanced AI on Text and Graph (2024–2025)**  
-  NLP, LLMs, SFT, RLHF, Distillation, RAG, and Graph Neural Networks   
+- **ALTEGRAD – Advanced AI on Text and Graph**  :NLP, LLMs, SFT, RLHF, Distillation, RAG, and Graph Neural Networks.  
   [Project](https://github.com/MaxCoppa/ALTEGRAD-labs-and-project)
 
 ---
 
-## Quantitative Finance & Forecasting
+### Quantitative Finance & Forecasting
 
-- **QRT Grand Data Challenge 2025** \
-  Can you predict whether a given asset allocation is worth following-or shorting? \
+- **QRT Grand Data Challenge 2025** : Can you predict whether a given asset allocation is worth following or shorting?  
   [Project](https://github.com/MaxCoppa/qrt-asset-allocation-performance-forecasting)
 
--  **ML for Porfolio Management and Trading** \
-  Stock prediction using US Federal Reserve (FRED) data, supervised by Pr. Sylvain Champonnois \
-  [Project](https://github.com/MaxCoppa/Project-ML-for-Portfolio-Management-and-Trading) | [Course](https://github.com/schampon/skfin)
+- **ML for Portfolio Management and Trading**: Stock prediction using US Federal Reserve (FRED) data, supervised by Pr. Sylvain Champonnois.  
+  [Project](https://github.com/MaxCoppa/Project-ML-for-Portfolio-Management-and-Trading) | [Course](https://github.com/schampon/skfin)
 
-- **Pricing Financial Options (C++)**  
-  Implemented Black–Scholes, Binomial Trees, and Monte Carlo simulations.  
-  [Repository](https://github.com/MaxCoppa/Option-pricing-project)  
-  [Report](https://github.com/MaxCoppa/Option-pricing-project/blob/main/C%2B%2B%20project%20report.pdf)
+- **Pricing Financial Options (C++)**: Implemented Black–Scholes, Binomial Trees, and Monte Carlo simulations.  
+  [Repository](https://github.com/MaxCoppa/Option-pricing-project) | [Report](https://github.com/MaxCoppa/Option-pricing-project/blob/main/C%2B%2B%20project%20report.pdf)
 
-- **Kaggle Competition: Commodity Spread Forecasting**  
-  Multi-output forecasting of commodity spreads using PCA, lag features, and ensemble methods (LightGBM, XGBoost).  
-  Identified leakage in the competition.  
+- **Kaggle Competition: Commodity Spread Forecasting**: Multi-output forecasting of commodity spreads using PCA, lag features, and ensemble methods (LightGBM, XGBoost).  Identified leakage in the competition.  
   [Competition](https://www.kaggle.com/competitions/mitsui-commodity-prediction-challenge/overview)
 
 ---
 
-## Data Analysis & Statistical Modeling
+### Data Analysis & Statistical Modeling
 
-- **Canal+ Loyalty Program Analysis**  
-  Estimation and prediction of loyalty program performance in Africa (500K+ subscribers).  
+- **Canal+ Loyalty Program Analysis** : Estimation and prediction of loyalty program performance in Africa (500K+ subscribers).  
   [Repository](https://github.com/Statapp-CANAL/Statapp-CANAL)
 
-- **Linear Time Series Modeling**  
-  ARIMA forecasting of industrial production indices in R.  
-  [Repository](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA) | [Report](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA/blob/main/Projet_ST_R.pdf)
+- **Linear Time Series Modeling**: ARIMA forecasting of industrial production indices in R.
+  [Repository](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA)  | [Report](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA/blob/main/Projet_ST_R.pdf)
 
-- **GeneRank (Mathematical Modeling)**  
-  Adaptation of the PageRank algorithm for gene comparison; convergence proofs.  
+- **GeneRank (Mathematical Modeling)** : Adaptation of the PageRank algorithm for gene comparison; convergence proofs.  
   [Report](https://github.com/MaxCoppa/GeneRank-project/blob/main/GeneRank.pdf)
 
-- **Optimization of a Delivery Network**  
-  Deterministic algorithms (Kruskal, Floyd–Warshall) and heuristics (genetic algorithms, greedy).  
+- **Optimization of a Delivery Network** :Deterministic algorithms (Kruskal, Floyd–Warshall) and heuristics (genetic algorithms, greedy).  
   [Repository](https://github.com/MaxCoppa/Transportation-network-project)
-___
+
+---
 
 ## Skills  
 
 **Programming:** Python, R, C++, Bash, LaTeX  
 **ML & Data Science:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Polars, Pandas, NumPy, SQL  
-**Other Tools:** Git, VBA, SAS  
+**Other Tools:** Git, VBA, SAS 
 
 ---
  

@@ -20,15 +20,15 @@ Seeking opportunities in quantitative research, applied machine learning, and de
 A selection of some projects.
 
 - **Object Verification (PyTorch, Transformers, OpenCV)**  
-  Deep learning models verifying whether two images represent the same object from different views and unseen classes.  \
+  Deep learning models verifying whether two images represent the same object from different views and unseen classes. \
   [Project](https://github.com/MaxCoppa/Object-Verification)
 
 - **QRT Grand Data Challenge 2025**  
-  Can you predict whether a given asset allocation is worth following or shorting?  \
+  Can you predict whether a given asset allocation is worth following or shorting? \
   [Project](https://github.com/MaxCoppa/qrt-asset-allocation-performance-forecasting)
 
 - **Myeloid Leukemia Survival Prediction (ENS ChallengeData)**  
-  Built survival models on clinical and genomic data, evaluated with IPCW-C-index.  \ 
+  Built survival models on clinical and genomic data, evaluated with IPCW-C-index. \ 
   [Project](https://github.com/MaxCoppa/Myeloid-Leukemia-Survival-Prediction) | [Competition](https://challengedata.ens.fr/challenges/162)
 
 - **ML for Portfolio Management and Trading**  
@@ -62,7 +62,7 @@ Some personal and academic projects I open-sourced on GitHub.
 
 ### Deep Learning & NLP
 
-- Object Verification (PyTorch, Transformers, OpenCV): Deep learning models verifying whether two images represent the same object from different views and unseen classes. \  
+- Object Verification (PyTorch, Transformers, OpenCV): Deep learning models verifying whether two images represent the same object from different views and unseen classes.  \  
   [Project](https://github.com/MaxCoppa/Object-Verification)
 - Deep Learning: MLPs, CNNs, Deep Dream, RNNs, and Transformers architecture implementations based on Deep Learning I Telecom Paris course. \
   [Project](https://github.com/MaxCoppa/Deep-Learning)
@@ -86,13 +86,13 @@ Some personal and academic projects I open-sourced on GitHub.
 
 ### Data Analysis & Statistical Modeling
 
-- Canal+ Loyalty Program Analysis: Estimation and prediction of loyalty program performance in Africa (500K+ subscribers).\ 
+- Canal+ Loyalty Program Analysis: Estimation and prediction of loyalty program performance in Africa (500K+ subscribers). \ 
   [Project](https://github.com/Statapp-CANAL/Statapp-CANAL)
 - Linear Time Series Modeling: ARIMA forecasting of industrial production indices in R. \
   [Project](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA)  | [Report](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA/blob/main/Projet_ST_R.pdf)
-- GeneRank (Mathematical Modeling) : Adaptation of the PageRank algorithm for gene comparison; convergence proofs.  \
+- GeneRank (Mathematical Modeling): Adaptation of the PageRank algorithm for gene comparison; convergence proofs. \
   [Report](https://github.com/MaxCoppa/GeneRank-project/blob/main/GeneRank.pdf)
-- Optimization of a Delivery Network :Deterministic algorithms (Kruskal, Floyd–Warshall) and heuristics (genetic algorithms, greedy).  \
+- Optimization of a Delivery Network:Deterministic algorithms (Kruskal, Floyd–Warshall) and heuristics (genetic algorithms, greedy).  \
   [Project](https://github.com/MaxCoppa/Transportation-network-project)
 
 ---

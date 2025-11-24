@@ -1,9 +1,9 @@
 # Maxime Coppa 
 ---
 Final-year **Data Science & Machine Learning student** at [ENSAE Paris](https://www.ensae.fr/en), part of Institut Polytechnique de Paris .  
-Currently double degree student at ENSAE Paris in the **DSSA 3A track** ([Data Science, Statistics and Learning](https://www.ensae.fr/en/education/ingenieur-ensae-program/third-year/data-science-statistics-and-learning)) and the **M2DS Research Master in Applied Mathematics and Computer Science** at [École Polytechnique](https://www.polytechnique.edu) ([M2DS program](https://www.ip-paris.fr/education/masters/mention-mathematiques-appliquees-statistique/master-year-2-data-science)).  
+Currently double degree student at [ENSAE Paris](https://www.ensae.fr/en) in the **DSSA 3A track** ([Data Science, Statistics and Learning](https://www.ensae.fr/en/education/ingenieur-ensae-program/third-year/data-science-statistics-and-learning)) and the **M2DS Research Master in Applied Mathematics and CS** at [École Polytechnique](https://www.polytechnique.edu) ([M2DS program](https://www.ip-paris.fr/education/masters/mention-mathematiques-appliquees-statistique/master-year-2-data-science)).  
 
-Research experience in Deep Learning, Financial Modeling, and Algorithmic Forecasting.  
+Research experience in Deep Learning, Financial Modeling, and Algorithmic Forecasting. 
 Driven by curiosity and a passion for solving complex problems at the intersection of mathematics, AI, and finance.  
 Seeking opportunities in quantitative research, applied machine learning, and deep learning research.
 
@@ -30,10 +30,9 @@ Seeking opportunities in quantitative research, applied machine learning, and de
   - Modeled performance of the loyalty program in Africa (500K+ subscribers).  
 
 ---
+# Featured Projects  
 
-## Some Projects  
-
-I have open-sourced a selection of my personal and academic projects here.  
+A selection of the most representative and impactful projects.
 
 - **Object Verification (PyTorch, Transformers, OpenCV)**  
   Deep learning models verifying whether two images represent the same object from different views and unseen classes.  
@@ -43,42 +42,13 @@ I have open-sourced a selection of my personal and academic projects here.
   Can you predict whether a given asset allocation is worth following-or shorting? \
   [Project](https://github.com/MaxCoppa/qrt-asset-allocation-performance-forecasting)
 
+- **Myeloid Leukemia Survival Prediction (ENS ChallengeData)**  \
+  Built survival models on clinical and genomic data, evaluated with IPCW-C-index.  
+  [Project](https://github.com/MaxCoppa/Myeloid-Leukemia-Survival-Prediction) | [Competition](https://challengedata.ens.fr/challenges/162)
+
 -  **ML for Porfolio Management and Trading** \
   Stock prediction using US Federal Reserve (FRED) data, supervised by Pr. Sylvain Champonnois \
   [Project](https://github.com/MaxCoppa/Project-ML-for-Portfolio-Management-and-Trading) | [Course](https://github.com/schampon/skfin)
-
-- **Deep Learning (2024)**  
-  MLPs, CNNs, Deep Dream, RNNs, and Transformers architecture Implementations.  
-  [Project](https://github.com/MaxCoppa/Deep-Learning)
-
-- **ALTEGRAD – Advanced AI on Text and Graph (2024–2025)**  
-  NLP, LLMs, SFT, RLHF, Distillation, RAG, and Graph Neural Networks   
-  [Project](https://github.com/MaxCoppa/ALTEGRAD-labs-and-project)
-
-- **Canal+ Loyalty Program Analysis**  
-  Estimation and prediction of loyalty program performance in Africa (500K+ subscribers).  
-  [Project](https://github.com/Statapp-CANAL/Statapp-CANAL)
-
-
-- **Pricing Financial Options (C++)**  
-  Implemented Black–Scholes, Binomial Trees, Monte Carlo simulations.  
-  [Project](https://github.com/MaxCoppa/Option-pricing-project) | [Report](https://github.com/MaxCoppa/Option-pricing-project/blob/main/C%2B%2B%20project%20report.pdf)
-
-- **Linear Time Series Modeling** \
-  Forecasted industrial production indices using ARIMA models and visualized trends in R. \
-  [Project](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA) | [Report](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA/blob/main/Projet_ST_R.pdf)
-
-- **Optimization of a Delivery Network (Python)**  
-  Designed deterministic algorithms (Kruskal, Floyd–Warshall) and heuristics (genetic algorithms, greedy methods).  
-  [Project](https://github.com/MaxCoppa/Transportation-network-project)  
-
-- **GeneRank (Mathematical Modeling)**  
-  Adapted the PageRank algorithm to gene comparison; proved convergence results.  
-  [Report](https://github.com/MaxCoppa/GeneRank-project/blob/main/GeneRank.pdf)  
-
-- **Kaggle Competitions**
-  Developed multi-output forecasting models for commodity spreads using PCA, lagged features, and ensemble methods (LightGBM, XGBoost) with cross-validation. Identifying leakage in the competition.
-  [Competition](https://www.kaggle.com/competitions/mitsui-commodity-prediction-challenge/overview) 
 
 ---
 
@@ -98,6 +68,70 @@ Transformer architectures for stock return prediction on the Jane Street [datase
 Optimization strategies for the "smoothed" quantile regression with (non-)smooth penalties supervised by Samuel Vaiter and Alexandre Gramfort.
   
 ---
+
+# All Projects
+
+A complete list of personal and academic projects I open-sourced on GitHub.
+
+---
+
+## Deep Learning & NLP
+
+- **Object Verification (PyTorch, Transformers, OpenCV)**  
+  Deep learning models verifying whether two images represent the same object from different views and unseen classes.  
+  [Project](https://github.com/MaxCoppa/Object-Verification)
+
+- **Deep Learning (2024)**  
+  MLPs, CNNs, Deep Dream, RNNs, and Transformers architecture Implementations.  
+  [Project](https://github.com/MaxCoppa/Deep-Learning)
+
+- **ALTEGRAD – Advanced AI on Text and Graph (2024–2025)**  
+  NLP, LLMs, SFT, RLHF, Distillation, RAG, and Graph Neural Networks   
+  [Project](https://github.com/MaxCoppa/ALTEGRAD-labs-and-project)
+
+---
+
+## Quantitative Finance & Forecasting
+
+- **QRT Grand Data Challenge 2025** \
+  Can you predict whether a given asset allocation is worth following-or shorting? \
+  [Project](https://github.com/MaxCoppa/qrt-asset-allocation-performance-forecasting)
+
+-  **ML for Porfolio Management and Trading** \
+  Stock prediction using US Federal Reserve (FRED) data, supervised by Pr. Sylvain Champonnois \
+  [Project](https://github.com/MaxCoppa/Project-ML-for-Portfolio-Management-and-Trading) | [Course](https://github.com/schampon/skfin)
+
+- **Pricing Financial Options (C++)**  
+  Implemented Black–Scholes, Binomial Trees, and Monte Carlo simulations.  
+  [Repository](https://github.com/MaxCoppa/Option-pricing-project)  
+  [Report](https://github.com/MaxCoppa/Option-pricing-project/blob/main/C%2B%2B%20project%20report.pdf)
+
+- **Kaggle Competition: Commodity Spread Forecasting**  
+  Multi-output forecasting of commodity spreads using PCA, lag features, and ensemble methods (LightGBM, XGBoost).  
+  Identified leakage in the competition.  
+  [Competition](https://www.kaggle.com/competitions/mitsui-commodity-prediction-challenge/overview)
+
+---
+
+## Data Analysis & Statistical Modeling
+
+- **Canal+ Loyalty Program Analysis**  
+  Estimation and prediction of loyalty program performance in Africa (500K+ subscribers).  
+  [Repository](https://github.com/Statapp-CANAL/Statapp-CANAL)
+
+- **Linear Time Series Modeling**  
+  ARIMA forecasting of industrial production indices in R.  
+  [Repository](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA)  
+  [Report](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA/blob/main/Projet_ST_R.pdf)
+
+- **GeneRank (Mathematical Modeling)**  
+  Adaptation of the PageRank algorithm for gene comparison; convergence proofs.  
+  [Report](https://github.com/MaxCoppa/GeneRank-project/blob/main/GeneRank.pdf)
+
+- **Optimization of a Delivery Network**  
+  Deterministic algorithms (Kruskal, Floyd–Warshall) and heuristics (genetic algorithms, greedy).  
+  [Repository](https://github.com/MaxCoppa/Transportation-network-project)
+___
 
 ## Skills  
 

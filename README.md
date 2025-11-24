@@ -71,9 +71,9 @@ I have open-sourced a selection of my personal and academic projects here.
   Adapted the PageRank algorithm to gene comparison; proved convergence results.  
   [Report](https://github.com/MaxCoppa/GeneRank-project/blob/main/GeneRank.pdf)  
 
-- **Kaggle Competitions**  
-  - House prices regression challenge  
-    [Competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)  
+- **Kaggle Competitions**
+  Developed multi-output forecasting models for commodity spreads using PCA, lagged features, and ensemble methods (LightGBM, XGBoost) with cross-validation. Identifying leakage in the competition.
+  [Competition](https://www.kaggle.com/competitions/mitsui-commodity-prediction-challenge/overview) 
 
 ---
 

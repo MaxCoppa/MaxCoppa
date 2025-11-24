@@ -121,8 +121,7 @@ A complete list of personal and academic projects I open-sourced on GitHub.
 
 - **Linear Time Series Modeling**  
   ARIMA forecasting of industrial production indices in R.  
-  [Repository](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA)  
-  [Report](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA/blob/main/Projet_ST_R.pdf)
+  [Repository](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA) | [Report](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA/blob/main/Projet_ST_R.pdf)
 
 - **GeneRank (Mathematical Modeling)**  
   Adaptation of the PageRank algorithm for gene comparison; convergence proofs.  

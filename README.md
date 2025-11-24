@@ -3,9 +3,10 @@
 Final-year **Data Science & Machine Learning student** at [ENSAE Paris](https://www.ensae.fr/en), part of Institut Polytechnique de Paris .  
 Currently double degree student at [ENSAE Paris](https://www.ensae.fr/en) in the **DSSA 3A track** ([Data Science, Statistics and Learning](https://www.ensae.fr/en/education/ingenieur-ensae-program/third-year/data-science-statistics-and-learning)) and the **M2DS Research Master in Applied Mathematics and CS** at [École Polytechnique](https://www.polytechnique.edu) ([M2DS program](https://www.ip-paris.fr/education/masters/mention-mathematiques-appliquees-statistique/master-year-2-data-science)).  
 
-Research experience in Deep Learning, Financial Modeling, and Algorithmic Forecasting (IDEMIA vehicle verification model with CNNs and Transformers work led to two patent disclosures; Quantilia quantitative Analyst R&D built cash flow forecasting models for private investments; Canal + International Data Scientist Consultant). 
-Driven by curiosity and a passion for solving complex problems at the intersection of mathematics, AI, and finance.  
-Seeking opportunities in quantitative research, applied machine learning, and deep learning research.
+I have worked on professional projects ranging from CNN/Vision Transformer models (IDEMIA, 2 patent disclosures) to forecasting models for private investments (Quantilia) and large-scale analytics (Canal+ International).  
+Beyond these roles, I develop numerous ML, deep learning, and quantitative projects showcased below.
+
+I enjoy tackling high-impact challenges in mathematics, machine learning, and statistical modeling, and I’m seeking research-oriented roles in ML/AI, quantitative modeling, and large-scale applied research.
 
 **Contact:**
 

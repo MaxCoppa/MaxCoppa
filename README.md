@@ -59,8 +59,6 @@ A selection of some projects.
 
 Some personal and academic projects I open-sourced on GitHub.
 
----
-
 ### Deep Learning & NLP
 
 - Object Verification (PyTorch, Transformers, OpenCV): Deep learning models verifying whether two images represent the same object from different views and unseen classes.  
@@ -69,8 +67,6 @@ Some personal and academic projects I open-sourced on GitHub.
   [Project](https://github.com/MaxCoppa/Deep-Learning)
 - ALTEGRAD – Advanced AI on Text and Graph: NLP, LLMs, SFT, RLHF, Distillation, RAG, and Graph Neural Networks based on ALTEGRAD course from MVA and M2DS master.  
   [Project](https://github.com/MaxCoppa/ALTEGRAD-labs-and-project)
-
----
 
 ### Quantitative Finance & Forecasting
 
@@ -82,8 +78,6 @@ Some personal and academic projects I open-sourced on GitHub.
   [Project](https://github.com/MaxCoppa/Option-pricing-project) | [Report](https://github.com/MaxCoppa/Option-pricing-project/blob/main/C%2B%2B%20project%20report.pdf)
 - Mitsui Commodity Prediction Challenge: Multi-output forecasting of commodity spreads using PCA, lag features, and ensemble methods (LightGBM, XGBoost).  Identified leakage in the competition.  
   [Competition](https://www.kaggle.com/competitions/mitsui-commodity-prediction-challenge/overview)
-
----
 
 ### Data Analysis & Statistical Modeling
 

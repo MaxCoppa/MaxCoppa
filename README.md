@@ -3,7 +3,7 @@
 Final-year **Data Science & Machine Learning student** at [ENSAE Paris](https://www.ensae.fr/en), part of Institut Polytechnique de Paris .  
 Currently double degree student at [ENSAE Paris](https://www.ensae.fr/en) in the **DSSA 3A track** ([Data Science, Statistics and Learning](https://www.ensae.fr/en/education/ingenieur-ensae-program/third-year/data-science-statistics-and-learning)) and the **M2DS Research Master in Applied Mathematics and CS** at [École Polytechnique](https://www.polytechnique.edu) ([M2DS program](https://www.ip-paris.fr/education/masters/mention-mathematiques-appliquees-statistique/master-year-2-data-science)).  
 
-Research experience in Deep Learning, Financial Modeling, and Algorithmic Forecasting. 
+Research experience in Deep Learning, Financial Modeling, and Algorithmic Forecasting (IDEMIA vehicle verification model with CNNs and Transformers work led to two patent disclosures; Quantilia quantitative Analyst R&D built cash flow forecasting models for private investments; Canal + International Data Scientist Consultant). 
 Driven by curiosity and a passion for solving complex problems at the intersection of mathematics, AI, and finance.  
 Seeking opportunities in quantitative research, applied machine learning, and deep learning research.
 
@@ -15,24 +15,9 @@ Seeking opportunities in quantitative research, applied machine learning, and de
 - LinkedIn: [linkedin.com/in/maxime-coppa](https://www.linkedin.com/in/maxime-coppa/)  
 ---
 
-## Research & Professional Experience  
-
-- **Deep Learning Research Intern – IDEMIA (Feb 2025 - Aug 2025)**  
-  - Vehicle verification with CNNs & Transformers (470K+ image pairs).  
-  - Achieved 95.7% accuracy, AUC = 0.99.  
-  - Work led to two patent disclosures.  
-
-- **Quantitative Analyst R&D – Quantilia (Jun 2024 - Dec 2024)**  
-  - Built cash flow forecasting models for private investments using deterministic and stochastic processes.  
-  - Developed a forecasting module (R² = 0.80) and automated ETL pipelines.  
-
-- **Data Scientist – Canal+ International (Oct 2023 - May 2024)**  
-  - Modeled performance of the loyalty program in Africa (500K+ subscribers).  
-
----
 ## Featured Projects  
 
-A selection of the most representative and impactful projects.
+A selection of some projects.
 
 - **Object Verification (PyTorch, Transformers, OpenCV)**  
   Deep learning models verifying whether two images represent the same object from different views and unseen classes.  \
@@ -43,7 +28,7 @@ A selection of the most representative and impactful projects.
   [Project](https://github.com/MaxCoppa/qrt-asset-allocation-performance-forecasting)
 
 - **Myeloid Leukemia Survival Prediction (ENS ChallengeData)**  
-  Built survival models on clinical and genomic data, evaluated with IPCW-C-index. \ 
+  Built survival models on clinical and genomic data, evaluated with IPCW-C-index.  \ 
   [Project](https://github.com/MaxCoppa/Myeloid-Leukemia-Survival-Prediction) | [Competition](https://challengedata.ens.fr/challenges/162)
 
 - **ML for Portfolio Management and Trading**  

@@ -89,27 +89,27 @@ Some personal and academic projects I open-sourced on GitHub.
 
 ### Quantitative Finance & Forecasting
 
-- QRT Grand Data Challenge 2025: Forecasted daily return signs across 65 allocations, mitigated low signal-to-noise challenges with leakage-free validation and a residual modeling approach
+- QRT Grand Data Challenge 2025: Forecasted daily return signs across 65 allocations, mitigated low signal-to-noise challenges with leakage-free validation and a residual modeling approach/
   [Project](https://github.com/MaxCoppa/qrt-asset-allocation-performance-forecasting)
-- ML for Portfolio Management and Trading: Built and evaluated predictive models for stock returns using U.S. FRED macroeconomic and sentiment data using Markowitz and LightGBM Regressor supervised by Pr. Sylvain Champonnois.
+- ML for Portfolio Management and Trading: Built and evaluated predictive models for stock returns using U.S. FRED macroeconomic and sentiment data using Markowitz and LightGBM Regressor supervised by Pr. Sylvain Champonnois./
   [Project](https://github.com/MaxCoppa/Project-ML-for-Portfolio-Management-and-Trading) | [Course](https://github.com/schampon/skfin)
-- Pricing Financial Options (C++): Implemented Black–Scholes, Binomial Trees, and Monte Carlo simulations.  
-  [Repository](https://github.com/MaxCoppa/Option-pricing-project) | [Report](https://github.com/MaxCoppa/Option-pricing-project/blob/main/C%2B%2B%20project%20report.pdf)
-- Mitsui Commodity Prediction Challenge: Multi-output forecasting of commodity spreads using PCA, lag features, and ensemble methods (LightGBM, XGBoost).  Identified leakage in the competition.  
+- Pricing Financial Options (C++): Implemented Black–Scholes, Binomial Trees, and Monte Carlo simulations./
+  [Project](https://github.com/MaxCoppa/Option-pricing-project) | [Report](https://github.com/MaxCoppa/Option-pricing-project/blob/main/C%2B%2B%20project%20report.pdf)
+- Mitsui Commodity Prediction Challenge: Multi-output forecasting of commodity spreads using PCA, lag features, and ensemble methods (LightGBM, XGBoost).  Identified leakage in the competition./
   [Competition](https://www.kaggle.com/competitions/mitsui-commodity-prediction-challenge/overview)
 
 ---
 
 ### Data Analysis & Statistical Modeling
 
-- Canal+ Loyalty Program Analysis: Estimation and prediction of loyalty program performance in Africa (500K+ subscribers).  
+- Canal+ Loyalty Program Analysis: Estimation and prediction of loyalty program performance in Africa (500K+ subscribers)./
   [Repository](https://github.com/Statapp-CANAL/Statapp-CANAL)
-- Linear Time Series Modeling: ARIMA forecasting of industrial production indices in R.
-  [Repository](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA)  | [Report](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA/blob/main/Projet_ST_R.pdf)
+- Linear Time Series Modeling: ARIMA forecasting of industrial production indices in R./
+  [Competition](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA)  | [Report](https://github.com/MaxCoppa/TimeSeriesForecast_ARIMA/blob/main/Projet_ST_R.pdf)
 - GeneRank (Mathematical Modeling) : Adaptation of the PageRank algorithm for gene comparison; convergence proofs.  
   [Report](https://github.com/MaxCoppa/GeneRank-project/blob/main/GeneRank.pdf)
 - Optimization of a Delivery Network :Deterministic algorithms (Kruskal, Floyd–Warshall) and heuristics (genetic algorithms, greedy).  
-  [Repository](https://github.com/MaxCoppa/Transportation-network-project)
+  [Competition](https://github.com/MaxCoppa/Transportation-network-project)
 
 ---
 

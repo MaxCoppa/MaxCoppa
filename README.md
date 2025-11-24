@@ -84,7 +84,13 @@ I have open-sourced a selection of my personal and academic projects here.
   [Project](https://github.com/MaxCoppa/Myeloid-Leukemia-Survival-Prediction) | [Competition](https://challengedata.ens.fr/challenges/162)
 
 - **ALTEGRAD Project** \
-  Project on advanced AI techniques for text and graph data, within the MVA and M2DS program. 
+  Project on advanced AI techniques for text and graph data, within the MVA and M2DS program.
+
+- **Advanced Machine Learning (ENSAE Paris) (2025)**  
+Transformer architectures for stock return prediction on the Jane Street dataset (https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting/data), benchmarked against gradient boosting models supervised by Austin Stromme. 
+
+- **Optimization for Data Science (M2DS) (2025)**
+Optimization strategies for the "smoothed" quantile regression with (non-)smooth penalties supervised by Samuel Vaiter and Alexandre Gramfort.
   
 ---
 

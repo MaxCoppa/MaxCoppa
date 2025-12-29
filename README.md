@@ -20,13 +20,13 @@ I enjoy tackling high-impact challenges in mathematics, machine learning, and st
 - **Molecular Graph Captioning**  
   Develop a model that takes a molecule’s atomic structure, represented as a graph, and predicts a coherent, humann-readable text caption. Project fon advanced AI techniques for text and graph data, for the ALTEGRAD course within the MVA and M2DS program supervised by Prof. Michalis Vazirgiannis (LIX).
 
-- **Reinforcement Learning : Model-Agnostic Meta-Learning**
+- **Reinforcement Learning : Model-Agnostic Meta-Learning** \
   Investigated fast adaptation with MAML-REINFORCE using gradient-step–based evaluation and convergence metrics; benchmarked against REINFORCE and Q-learning, and extended experiments to regression and sinusoidal function fitting. Course of RL at l'X supervised by Luiz F. O. Chamon.
   
-- **Advanced Machine Learning (ENSAE Paris)**
+- **Advanced Machine Learning (ENSAE Paris)** \
   Transformer architectures for stock return prediction on the Jane Street dataset, benchmarked against gradient boosting models supervised by Pr. Austin Stromme (ENSAE/CREST). 
 
-- **Optimization for Data Science**
+- **Optimization for Data Science** \
   Optimization strategies for the "smoothed" quantile regression with (non-)smooth penalties, supervised by Pr. Samuel Vaiter (CNRS) and Pr. Alexandre Gramfort (Meta).
   
 ---

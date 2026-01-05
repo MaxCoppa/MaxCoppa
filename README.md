@@ -11,6 +11,7 @@ I enjoy tackling high-impact challenges in mathematics, machine learning, and st
 **Contact:**
 
 - Email:
+  - `maxime[dot]coppa[at]polytechnique[dot]edu`
   - `maxime[dot]coppa[at]gmail[dot]com`
 - LinkedIn: [linkedin.com/in/maxime-coppa](https://www.linkedin.com/in/maxime-coppa/)  
 ---

@@ -12,7 +12,6 @@ I enjoy tackling high-impact challenges in mathematics, machine learning, and st
 
 - Email:
   - `maxime[dot]coppa[at]polytechnique[dot]edu`
-  - `maxime[dot]coppa[at]ensae[dot]fr`
   - `maxime[dot]coppa[at]gmail[dot]com`
 - LinkedIn: [linkedin.com/in/maxime-coppa](https://www.linkedin.com/in/maxime-coppa/)  
 ---
@@ -20,17 +19,16 @@ I enjoy tackling high-impact challenges in mathematics, machine learning, and st
 ## Currently Working On  
 
 - **Deep Learning for Time Series**
-  Developing Transformer-based and sequential architectures for financial time series under distribution shift, emphasizing leakage-free validation and robustness to low signal-to-noise regimes.
-
-- **QRT Asset Allocation Performance Forecasting — *Trust or Short?***
-  Building statistically robust models to predict whether daily asset allocations should be followed or shorted in a highly noisy financial environment (ChallengeData 2025).
+  Studying foundation model adaptation and forecasting-based pretraining for multivariate time series classification on LSST, with systematic evaluation of linear probing, partial fine-tuning, and representation robustness under non-stationary conditions. Project supervised by prof. Romain Tavenard (IRISA Inria).
 
 - **Federated Learning under Byzantine Attacks**
-  Studying adversarial robustness in distributed learning through analysis of Byzantine-resilient aggregation rules under gradient poisoning attacks.
+  Implementing and benchmarking robust aggregation methods in federated learning to mitigate gradient poisoning attacks and quantify robustness–performance trade-offs in adversarial settings. Project supervised by prof. El Mahdi El Mhamdi.
 
 - **Optimal Transport**
-  Exploring theoretical and computational aspects of Wasserstein distances and Sinkhorn regularization for distribution alignment in modern machine learning.
+  Contributing to the open-source OTT-JAX toolbox by implementing and experimentally validating advanced optimal transport algorithms (e.g., constrained Sinkhorn, annealed regularization schedules, or hierarchical low-rank refinement), and packaging the results into a research-grade tutorial notebook for integration into the official library. Project from the Optimal Transport course, supervised by Marco Cuturi (Apple / ENSAE)
 
+- **QRT Asset Allocation Performance Forecasting: Trust or Short?**
+  Developing statistical and machine learning models to predict the directional performance of systematic asset allocations, addressing low signal-to-noise ratios, temporal dependence, and leakage-free validation in financial time series. [ChallengeData](https://challengedata.ens.fr/participants/challenges/167/) ENS 2026
 ---
 
 ## Featured Projects  
@@ -38,7 +36,7 @@ I enjoy tackling high-impact challenges in mathematics, machine learning, and st
 A selection of some projects.
 
 - **Molecular Graph Captioning**  
-  Develop a model that takes a molecule’s atomic structure, represented as a graph, and predicts a coherent, humann-readable text caption. Project fon advanced AI techniques for text and graph data, for the ALTEGRAD course within the MVA and M2DS program supervised by Prof. Michalis Vazirgiannis (LIX).\
+  Develop a model that takes a molecule’s atomic structure, represented as a graph, and predicts a coherent, humann-readable text caption. Project for advanced AI techniques for text and graph data, for the ALTEGRAD course within the MVA and M2DS program supervised by Prof. Michalis Vazirgiannis (LIX).\
   [Project](https://github.com/MaxCoppa/Molecular-Graph-Captioning)
   
 - **Object Verification (PyTorch, Transformers, OpenCV)**  

@@ -18,16 +18,16 @@ I enjoy tackling high-impact challenges in mathematics, machine learning, and st
 
 ## Currently Working On  
 
-- **Deep Learning for Time Series**
+- **Deep Learning for Time Series**  
   Studying foundation model adaptation and forecasting-based pretraining for multivariate time series classification on LSST, with systematic evaluation of linear probing, partial fine-tuning, and representation robustness under non-stationary conditions. Project supervised by prof. Romain Tavenard (IRISA Inria).
 
-- **Federated Learning under Byzantine Attacks**
+- **Federated Learning under Byzantine Attacks**  
   Implementing and benchmarking robust aggregation methods in federated learning to mitigate gradient poisoning attacks and quantify robustness–performance trade-offs in adversarial settings. Project supervised by prof. El Mahdi El Mhamdi.
 
-- **Optimal Transport**
+- **Optimal Transport**  
   Contributing to the open-source OTT-JAX toolbox by implementing and experimentally validating advanced optimal transport algorithms (e.g., constrained Sinkhorn, annealed regularization schedules, or hierarchical low-rank refinement), and packaging the results into a research-grade tutorial notebook for integration into the official library. Project from the Optimal Transport course, supervised by Marco Cuturi (Apple / ENSAE)
 
-- **QRT Asset Allocation Performance Forecasting: Trust or Short?**
+- **QRT Asset Allocation Performance Forecasting: Trust or Short?**  
   Developing statistical and machine learning models to predict the directional performance of systematic asset allocations, addressing low signal-to-noise ratios, temporal dependence, and leakage-free validation in financial time series. [ChallengeData](https://challengedata.ens.fr/participants/challenges/167/) ENS 2026
 ---
 

@@ -12,30 +12,35 @@ I enjoy tackling high-impact challenges in mathematics, machine learning, and st
 
 - Email:
   - `maxime[dot]coppa[at]polytechnique[dot]edu`
+  - `maxime[dot]coppa[at]ensae[dot]fr`
   - `maxime[dot]coppa[at]gmail[dot]com`
 - LinkedIn: [linkedin.com/in/maxime-coppa](https://www.linkedin.com/in/maxime-coppa/)  
 ---
 
 ## Currently Working On  
 
-- **Molecular Graph Captioning**  
-  Develop a model that takes a molecule’s atomic structure, represented as a graph, and predicts a coherent, humann-readable text caption. Project fon advanced AI techniques for text and graph data, for the ALTEGRAD course within the MVA and M2DS program supervised by Prof. Michalis Vazirgiannis (LIX).
+- **Deep Learning for Time Series**
+  Developing Transformer-based and sequential architectures for financial time series under distribution shift, emphasizing leakage-free validation and robustness to low signal-to-noise regimes.
 
-- **Reinforcement Learning : Model-Agnostic Meta-Learning** \
-  Investigated fast adaptation with MAML-REINFORCE using gradient-step–based evaluation and convergence metrics; benchmarked against REINFORCE and Q-learning, and extended experiments to regression and sinusoidal function fitting. Course of RL at l'X supervised by Luiz F. O. Chamon.
-  
-- **Advanced Machine Learning (ENSAE Paris)** \
-  Transformer architectures for stock return prediction on the Jane Street dataset, benchmarked against gradient boosting models supervised by Pr. Austin Stromme (ENSAE/CREST). 
+- **QRT Asset Allocation Performance Forecasting — *Trust or Short?***
+  Building statistically robust models to predict whether daily asset allocations should be followed or shorted in a highly noisy financial environment (ChallengeData 2025).
 
-- **Optimization for Data Science** \
-  Optimization strategies for the "smoothed" quantile regression with (non-)smooth penalties, supervised by Pr. Samuel Vaiter (CNRS) and Pr. Alexandre Gramfort (Meta).
-  
+- **Federated Learning under Byzantine Attacks**
+  Studying adversarial robustness in distributed learning through analysis of Byzantine-resilient aggregation rules under gradient poisoning attacks.
+
+- **Optimal Transport**
+  Exploring theoretical and computational aspects of Wasserstein distances and Sinkhorn regularization for distribution alignment in modern machine learning.
+
 ---
 
 ## Featured Projects  
 
 A selection of some projects.
 
+- **Molecular Graph Captioning**  
+  Develop a model that takes a molecule’s atomic structure, represented as a graph, and predicts a coherent, humann-readable text caption. Project fon advanced AI techniques for text and graph data, for the ALTEGRAD course within the MVA and M2DS program supervised by Prof. Michalis Vazirgiannis (LIX).\
+  [Project](https://github.com/MaxCoppa/Molecular-Graph-Captioning)
+  
 - **Object Verification (PyTorch, Transformers, OpenCV)**  
   Deep learning models verifying whether two images represent the same object from different views and unseen classes.  
   [Project](https://github.com/MaxCoppa/Object-Verification)
@@ -52,6 +57,10 @@ A selection of some projects.
   Stock prediction using US Federal Reserve (FRED) data, supervised by Pr. Sylvain Champonnois (CFM).  
   [Project](https://github.com/MaxCoppa/Project-ML-for-Portfolio-Management-and-Trading) | [Course](https://github.com/schampon/skfin)
 
+- **Reinforcement Learning : Model-Agnostic Meta-Learning** \
+  Investigated fast adaptation with MAML-REINFORCE using gradient-step–based evaluation and convergence metrics; benchmarked against REINFORCE and Q-learning, and extended experiments to regression and sinusoidal function fitting. Course of RL at l'X supervised by Luiz F. O. Chamon.
+  [Project](https://github.com/adam-elbernoussi/MAML-project)
+
 ---
 ## Open-Sourced Projects
 
@@ -59,6 +68,10 @@ Some personal and academic projects I open-sourced on GitHub.
 
 ### Deep Learning & NLP
 
+- Molecular Graph Captioning: Develop a model that takes a molecule’s atomic structure, represented as a graph, and predicts a coherent, humann-readable text caption.\
+  [Project](https://github.com/MaxCoppa/Molecular-Graph-Captioning)
+- Reinforcement Learning : Model-Agnostic Meta-Learning: Investigated fast adaptation with MAML-REINFORCE.\
+  [Project](https://github.com/adam-elbernoussi/MAML-project)
 - Object Verification (PyTorch, Transformers, OpenCV): Deep learning models verifying whether two images represent the same object from different views and unseen classes.  
   [Project](https://github.com/MaxCoppa/Object-Verification)
 - Deep Learning: MLPs, CNNs, Deep Dream, RNNs, and Transformers architecture implementations based on Deep Learning I Telecom Paris course.  
@@ -79,6 +92,10 @@ Some personal and academic projects I open-sourced on GitHub.
 
 ### Data Analysis & Statistical Modeling
 
+- Advanced Machine Learning (ENSAE Paris): Transformer architectures for stock return prediction on the Jane Street dataset, benchmarked against gradient boosting models supervised by Pr. Austin Stromme (ENSAE/CREST).\
+  [Project](https://github.com/MaxCoppa/Advanced-ML)
+- Optimization for Data Science:
+  Optimization strategies for the "smoothed" quantile regression with (non-)smooth penalties, supervised by Pr. Samuel Vaiter (CNRS) and Pr. Alexandre Gramfort (Meta).
 - Canal+ Loyalty Program Analysis: Estimation and prediction of loyalty program performance in Africa (500K+ subscribers).  
   [Project](https://github.com/Statapp-CANAL/Statapp-CANAL)
 - Linear Time Series Modeling: ARIMA forecasting of industrial production indices in R.  

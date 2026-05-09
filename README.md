@@ -79,14 +79,14 @@ Some personal and academic projects I open-sourced on GitHub.
 
 ### Quantitative Finance & Forecasting
 
+- MLOps Prediction Market: Built a production-oriented LightGBM pipeline for Kalshi binary event markets, including feature engineering, Optuna tuning, walk-forward backtesting, MLflow tracking, FastAPI serving, Docker containerization, CI/CD, GitOps deployment, and a Quarto website.  
+  [Project](https://github.com/MaxCoppa/MLOps-Prediction-Market) | [Website](https://maxcoppa.github.io/MLOps-Prediction-Market/) | [API Docs](https://kalshi-predictor.lab.sspcloud.fr/docs)
 - QRT Grand Data Challenge 2025: Forecasted daily return signs across 65 allocations, mitigated low signal-to-noise challenges with leakage-free validation and a residual modeling approach.  
   [Project](https://github.com/MaxCoppa/qrt-asset-allocation-performance-forecasting)
 - ML for Portfolio Management and Trading: Built and evaluated predictive models for stock returns using U.S. FRED macroeconomic and sentiment data using Markowitz and LightGBM Regressor supervised by Pr. Sylvain Champonnois.  
   [Project](https://github.com/MaxCoppa/Project-ML-for-Portfolio-Management-and-Trading) | [Course](https://github.com/schampon/skfin)
 - Pricing Financial Options (C++): Implemented Black–Scholes, Binomial Trees, and Monte Carlo simulations.  
   [Project](https://github.com/MaxCoppa/Option-pricing-project) | [Report](https://github.com/MaxCoppa/Option-pricing-project/blob/main/C%2B%2B%20project%20report.pdf)
-- Mitsui Commodity Prediction Challenge: Multi-output forecasting of commodity spreads using PCA, lag features, and ensemble methods (LightGBM, XGBoost).  Identified leakage in the competition.  
-  [Competition](https://www.kaggle.com/competitions/mitsui-commodity-prediction-challenge/overview)
 
 ### Data Analysis & Statistical Modeling
 
